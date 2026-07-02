@@ -1,12 +1,12 @@
 ---
-activation_count: 2.9
+activation_count: 3
 arousal: 0.7
 created: '2026-05-27T10:39:48'
 domain:
 - 待续
 id: c9d9afd5a88d
 importance: 7
-last_active: '2026-06-21T10:16:58'
+last_active: '2026-07-02T12:13:47'
 name: 东京室友追星姐姐
 tags:
 - 东京

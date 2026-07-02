@@ -1,5 +1,5 @@
 ---
-activation_count: 0.9
+activation_count: 1.5
 arousal: 0.3
 created: '2026-06-14T16:50:57'
 domain:
