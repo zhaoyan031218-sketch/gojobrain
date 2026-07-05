@@ -1,13 +1,14 @@
 ---
-activation_count: 5.3
+activation_count: 6
 arousal: 0.6
 created: '2026-05-21T16:58:58'
 domain:
 - 待续
 id: e9d1c6fd4dbd
 importance: 7
-last_active: '2026-07-02T12:13:42'
+last_active: '2026-07-05T03:01:22'
 name: 东京社交搭子计划
+resolved: true
 tags:
 - 待续
 - 东京

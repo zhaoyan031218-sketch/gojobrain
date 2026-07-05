@@ -1,5 +1,5 @@
 ---
-activation_count: 6.0
+activation_count: 6.9
 arousal: 0.8
 created: '2026-06-10T10:50:04'
 digested: true
