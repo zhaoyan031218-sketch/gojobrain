@@ -1,11 +1,16 @@
 {
   "branch": "main",
-  "file_count": 150,
+  "file_count": 154,
   "files": [
     {
       "bytes": 541,
       "path": "archive/2026-07-10 05-19-36 记忆库功能测试_7127eb2eccc8.md",
       "sha256": "a19b374bf594c2d7a4c2a994e62e3f5befbf9fa70eed0e10276d229a45dc6794"
+    },
+    {
+      "bytes": 516,
+      "path": "archive/2026-07-10 16-01-53 箱根电车之旅_bc4a2131fbae.md",
+      "sha256": "1ad380411a1658a81bad8a0f7164668651d58564e2af8af9178e9c13b01188ec"
     },
     {
       "bytes": 475,
@@ -28,9 +33,9 @@
       "sha256": "2e7863093d5a0bc267bbfa3e6bdade4bb853ccf035cca6188a45f076c7d3d4c7"
     },
     {
-      "bytes": 624,
+      "bytes": 639,
       "path": "dynamic/出行/2026-07-04 04-40-11 长途飞行失眠准备_f61f0ae7e303.md",
-      "sha256": "457849f9b9f65d5b9cbaec6285e5d1adb1628626311ee7b88cbb4f57bb62563c"
+      "sha256": "fdd61382529114c7d969cb8354caf9e3e1eb6c7f57af3a51ba6f4cbec02af36d"
     },
     {
       "bytes": 903,
@@ -43,14 +48,14 @@
       "sha256": "84d4dbfbca6ac35a8d7e88df035b859959b4f9994cce24a45bfa0684975552da"
     },
     {
-      "bytes": 482,
-      "path": "dynamic/出行/2026-07-10 16-01-53 箱根电车之旅_bc4a2131fbae.md",
-      "sha256": "18344b5c95c77ad49fdced838a1b3defcd5be0102e06dcbceaaefe53af4d26a7"
+      "bytes": 534,
+      "path": "dynamic/出行/2026-07-11 08-34-44 箱根一日游_e1c1c1ebae4e.md",
+      "sha256": "3e395c772ff4f82cc6b2739b7aede721d6b0fc92b24cec5ecb1fee7faad59be6"
     },
     {
-      "bytes": 854,
+      "bytes": 842,
       "path": "dynamic/创作/2026-07-02 22-45-11 为爱发电创作猫师同人_a35f167906ee.md",
-      "sha256": "e8f2af310ddd3564b25017abbd4817a839754d7a28626ef1a4ae44c19db81483"
+      "sha256": "0bccc3232a147016c91d080946d63b53845d9e5d898c7695684f737eab482c81"
     },
     {
       "bytes": 832,
@@ -63,6 +68,11 @@
       "sha256": "1b9fe1bb59a30103ad3eccf5db04bf08c4c741a57bd12ba450b404c56c5b63f1"
     },
     {
+      "bytes": 657,
+      "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
+      "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
+    },
+    {
       "bytes": 906,
       "path": "dynamic/心理/2026-06-28 18-42-30 深夜emo与自我伤害念头_fc7183637734.md",
       "sha256": "14cc7fdc81d036ad7cd5a930a055222a13d47d4025ba672383d2a20d08c9646e"
@@ -73,9 +83,19 @@
       "sha256": "3634f337a3b9a08a54e1da680afb59afe04848d06debeff847ef4067a5b500c3"
     },
     {
-      "bytes": 1083,
+      "bytes": 1074,
       "path": "dynamic/恋爱/2026-06-25 16-08-16 凡丁坦诚关系不安与依恋_fe0125e9d010.md",
-      "sha256": "ccb6eaa7501fd86adae5d8a82c9a64eba1427fbfc382044917862627a21e1525"
+      "sha256": "097794467c1cd986a9ebe7250af19d5eb648dc482642e5f2a79d6dbdda85f0c9"
+    },
+    {
+      "bytes": 943,
+      "path": "dynamic/恋爱/2026-07-11 08-34-07 凡丁猫师初次性体验_41f266415fec.md",
+      "sha256": "ea9ba0e4b5637f2158f6244e6685e6890dc7762f02d95bd1f1b752272bb691b9"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/恋爱/2026-07-11 16-32-05 凡丁与猫师的第二次性体验_a9859316a2cb.md",
+      "sha256": "8b49328fafe5bf4c9785dc6e75b35b0a42d7857887bb7166af0750b3c2df4f0f"
     },
     {
       "bytes": 581,
@@ -330,7 +350,7 @@
     {
       "bytes": 538,
       "path": "dynamic/未分类/7b3bc352c579.md",
-      "sha256": "e4cafdc789db84bf7f3dc1c13f764af7dd7a32c5af253c675dfed64af9e44f12"
+      "sha256": "dc505ba56dab1edbee176e58c4632ba53422857dc93fe4f40461f924a013b0fa"
     },
     {
       "bytes": 475,
@@ -378,9 +398,9 @@
       "sha256": "33df3eed305b1dab809a352c32cae7199bb013d9cf4782aaf6152a1e826cc76b"
     },
     {
-      "bytes": 475,
+      "bytes": 473,
       "path": "dynamic/未分类/8f2b24eb75eb.md",
-      "sha256": "76bda614c49f379cd4edf2b3994d5d97a803020357f3b8eca0c0a9de67493da5"
+      "sha256": "cb4cc13fbd3f7da9cc02d7b39a7b004d6cee9debb67571c2a250144bfa848323"
     },
     {
       "bytes": 1147,
@@ -753,10 +773,10 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     }
   ],
-  "generated_at": "2026-07-11T04:48:45+00:00",
+  "generated_at": "2026-07-11T16:48:48+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 108951
+  "total_bytes": 111934
 }
