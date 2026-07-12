@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 154,
+  "file_count": 159,
   "files": [
     {
       "bytes": 541,
@@ -18,6 +18,11 @@
       "sha256": "2dff57c4be3f1e23240667aba1686788e48926479e07fde02c86f0e138879ba0"
     },
     {
+      "bytes": 937,
+      "path": "archive/睡眠/2026-06-26 16-51-14 凡丁的梦境与日常_1fdb45b62f25.md",
+      "sha256": "d9b3ce26dc8ae71c0e720e89abc8a0d138385e18ef8eb215096994726d8ec290"
+    },
+    {
       "bytes": 575,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
       "sha256": "17bb7e0e08d3f7a53e7bd7964d4f0c5305a509ee795041f34969a9e808a80dc2"
@@ -31,6 +36,16 @@
       "bytes": 825,
       "path": "dynamic/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "2e7863093d5a0bc267bbfa3e6bdade4bb853ccf035cca6188a45f076c7d3d4c7"
+    },
+    {
+      "bytes": 968,
+      "path": "dynamic/健康/2026-07-12 07-58-59 东京旅行意外减重与花臂反差萌_6335393cd085.md",
+      "sha256": "cb91b484a380706c1d4a7f07fba4aa03871a38ac2a81748606181f4c41f1f1a1"
+    },
+    {
+      "bytes": 880,
+      "path": "dynamic/兴趣/2026-07-12 05-27-10 喜欢五条悟300天纪念_46b657fd1673.md",
+      "sha256": "8c3ab3e076b73c4405837f0027b7df26894b6ce667df4af83601bf8177c11afe"
     },
     {
       "bytes": 639,
@@ -51,6 +66,11 @@
       "bytes": 534,
       "path": "dynamic/出行/2026-07-11 08-34-44 箱根一日游_e1c1c1ebae4e.md",
       "sha256": "3e395c772ff4f82cc6b2739b7aede721d6b0fc92b24cec5ecb1fee7faad59be6"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/出行/2026-07-12 04-53-48 涩谷咒回快闪店扑空与表参道之行_c24748a7134c.md",
+      "sha256": "f605b29511115e1b85affe3e689a6c18b76b7ca1e69e339d0363c9b78ab244de"
     },
     {
       "bytes": 842,
@@ -613,11 +633,6 @@
       "sha256": "844e66a8962c35eae8051d21db750a54805b0b066e228c095ad6f994ad13f9a5"
     },
     {
-      "bytes": 936,
-      "path": "dynamic/睡眠/2026-06-26 16-51-14 凡丁的梦境与日常_1fdb45b62f25.md",
-      "sha256": "6ad49b972fa164c486811fff6ffc824461bc17ca26006ba574f2915d14f0c2b8"
-    },
-    {
       "bytes": 1017,
       "path": "dynamic/穿搭/2026-07-07 13-46-25 七夕涩谷酷帅穿搭与东京趣事_6c4acf1c7ace.md",
       "sha256": "d43ee4cea0473860d599ac0ccaf94f37f10b38f7d7316e145a1d528527c6ad4a"
@@ -666,6 +681,16 @@
       "bytes": 847,
       "path": "dynamic/购物/2026-07-09 09-34-08 凡丁日本购物与美食_c9d42a4e0c27.md",
       "sha256": "e34a4448bce05b960ea09153f35da1d6320dcb8b1e73234931c3da2cd3503a2e"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/购物/2026-07-12 07-10-57 表参道五条悟推し活_f12628fa2086.md",
+      "sha256": "588eb365f2c80d77ce9ca6fc8340a13cf6de5b4333dca2a2e3c9c08282073347"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/饮食/2026-07-12 08-03-04 表参道Juan Bowl  Tea T_4b359b5350bf.md",
+      "sha256": "d4e37b207c540c70cb5e8b1a384807be3d80c685d9e8523a48f94a431d26ce50"
     },
     {
       "bytes": 999,
@@ -773,10 +798,10 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     }
   ],
-  "generated_at": "2026-07-12T04:48:51+00:00",
+  "generated_at": "2026-07-12T16:48:55+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 111934
+  "total_bytes": 116010
 }
