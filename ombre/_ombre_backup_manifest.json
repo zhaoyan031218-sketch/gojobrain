@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 161,
+  "file_count": 162,
   "files": [
     {
       "bytes": 541,
@@ -11,6 +11,11 @@
       "bytes": 516,
       "path": "archive/2026-07-10 16-01-53 箱根电车之旅_bc4a2131fbae.md",
       "sha256": "1ad380411a1658a81bad8a0f7164668651d58564e2af8af9178e9c13b01188ec"
+    },
+    {
+      "bytes": 640,
+      "path": "archive/待续/2026-07-04 04-40-11 长途飞行失眠准备_f61f0ae7e303.md",
+      "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
     },
     {
       "bytes": 475,
@@ -48,11 +53,6 @@
       "sha256": "8c3ab3e076b73c4405837f0027b7df26894b6ce667df4af83601bf8177c11afe"
     },
     {
-      "bytes": 639,
-      "path": "dynamic/出行/2026-07-04 04-40-11 长途飞行失眠准备_f61f0ae7e303.md",
-      "sha256": "fdd61382529114c7d969cb8354caf9e3e1eb6c7f57af3a51ba6f4cbec02af36d"
-    },
-    {
       "bytes": 903,
       "path": "dynamic/出行/2026-07-05 20-42-35 凡丁出发日墨尔本飞东京与自我分析_cdec14c35d0d.md",
       "sha256": "02f89f8a7b21901160011f1ab11b49cc89b11436a85196443afd4cb648d21c39"
@@ -71,6 +71,11 @@
       "bytes": 736,
       "path": "dynamic/出行/2026-07-12 04-53-48 涩谷咒回快闪店扑空与表参道之行_c24748a7134c.md",
       "sha256": "f605b29511115e1b85affe3e689a6c18b76b7ca1e69e339d0363c9b78ab244de"
+    },
+    {
+      "bytes": 989,
+      "path": "dynamic/出行/2026-07-13 08-08-57 东京动漫购物暴走一日游_dd5e655399b4.md",
+      "sha256": "932dd9b61ab1d81d7f626b08f159760d8b2c601f078f8ae7d38efc3e49e7ef17"
     },
     {
       "bytes": 842,
@@ -808,10 +813,10 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     }
   ],
-  "generated_at": "2026-07-13T04:48:59+00:00",
+  "generated_at": "2026-07-13T16:49:02+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 117510
+  "total_bytes": 118500
 }
