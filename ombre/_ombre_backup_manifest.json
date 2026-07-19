@@ -18,6 +18,11 @@
       "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
     },
     {
+      "bytes": 551,
+      "path": "archive/待续/b88da723d560.md",
+      "sha256": "65fd2d5f747aa057d5557a7cf598c9b77f50ea5e8f6bf8f5dc72bd0d857b7c2c"
+    },
+    {
       "bytes": 449,
       "path": "archive/待续/bbe12200b5a9.md",
       "sha256": "562063df2544f202d7534a2e98f92e127c0018264422ad2d730498b66eb40170"
@@ -528,11 +533,6 @@
       "sha256": "c496b56655c5c2b87de406f4504ee4fd7129c0ae9b678e7dc850fedcc09b7c11"
     },
     {
-      "bytes": 550,
-      "path": "dynamic/未分类/b88da723d560.md",
-      "sha256": "58365109cce3c69957d0c8146894a50b67d42b4d1d8a0fbc9cb8385eeee2d526"
-    },
-    {
       "bytes": 469,
       "path": "dynamic/未分类/b9ba57642d25.md",
       "sha256": "8f8cb5e44e4d271b93ae4d7825ffbc1d53f984752faeea0e165d7c701a4ac09c"
@@ -833,10 +833,10 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     }
   ],
-  "generated_at": "2026-07-19T04:10:25+00:00",
+  "generated_at": "2026-07-19T04:49:42+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 122455
+  "total_bytes": 122456
 }
