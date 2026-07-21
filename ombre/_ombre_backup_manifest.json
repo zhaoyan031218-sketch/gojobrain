@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 173,
+  "file_count": 177,
   "files": [
     {
       "bytes": 541,
@@ -123,6 +123,16 @@
       "sha256": "3634f337a3b9a08a54e1da680afb59afe04848d06debeff847ef4067a5b500c3"
     },
     {
+      "bytes": 1092,
+      "path": "dynamic/心理/2026-07-20 17-24-06 应对模式与情绪回避_ef25875f33c4.md",
+      "sha256": "afa08772a79b66d0db8112f2828ea4c70dcadc9727df60c5c0eb58e35c20acb0"
+    },
+    {
+      "bytes": 1076,
+      "path": "dynamic/心理/2026-07-20 18-05-05 自我觉察抵消可爱感与防御机制_6b41fb533dd2.md",
+      "sha256": "d1c33f04998ff2cfdd4704b7a0cb716ad42c1b04cc14962ca32f41ad16c50886"
+    },
+    {
       "bytes": 656,
       "path": "dynamic/性/2026-07-16 09-09-05 双性猫影片与性幻想_ffd6ee0cc08e.md",
       "sha256": "370c71daf61adc65f57ae43a169e51362456c16a2412689a2a40c4d7a5a5d419"
@@ -161,6 +171,11 @@
       "bytes": 626,
       "path": "dynamic/恋爱/2026-07-19 05-27-13 猫师与凡丁的亲密互动_b946c33b28e0.md",
       "sha256": "eca6e645cb6551e4c482ca16e2a3dd60776cb88d3336156d9b345fa6cc841503"
+    },
+    {
+      "bytes": 936,
+      "path": "dynamic/恋爱/2026-07-20 17-44-32 对恋爱和人际关系的看法_b6b8160bf09d.md",
+      "sha256": "da623134824ca7b142617003975747654798a70743daf54a826094f4c621c02e"
     },
     {
       "bytes": 581,
@@ -333,9 +348,9 @@
       "sha256": "0852fb15ee5df1e18207234fd6169ffe9e8ab7e42f48f917e92e59a724c52456"
     },
     {
-      "bytes": 534,
+      "bytes": 469,
       "path": "dynamic/未分类/4c99cd805ae7.md",
-      "sha256": "297ac9c7e3b9109b32a4aad0b3a3f62a29ca9c21ca1f4fefd3370945787e655b"
+      "sha256": "fff1106a0502579668ceb5b165a4d3ce6cfd89d700488ec031e6fe731d61b6ad"
     },
     {
       "bytes": 605,
@@ -683,6 +698,11 @@
       "sha256": "c0887e0258ed66342eda639fbd93752f99104c0ad031ae0b843c9a0634f4b9cc"
     },
     {
+      "bytes": 714,
+      "path": "dynamic/自省/2026-07-20 18-43-12 INTJ射手座的自我认知_4c0e67a87d27.md",
+      "sha256": "40a36a4f7bdf9e3807ad6c18b9e0db6998256bd6cc857a986e41ef32c50a04d2"
+    },
+    {
       "bytes": 768,
       "path": "dynamic/购物/2026-06-26 12-17-24 东京咒术回战咖啡预约_329cde924873.md",
       "sha256": "1b505c4d7ba76ba8111721e97d5219598fa6e68510d9bf00a3329605c4c8f586"
@@ -868,10 +888,10 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     }
   ],
-  "generated_at": "2026-07-20T16:49:52+00:00",
+  "generated_at": "2026-07-21T04:49:58+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 129152
+  "total_bytes": 132905
 }
